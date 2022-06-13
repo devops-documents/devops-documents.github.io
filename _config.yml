@@ -1,1 +1,4 @@
-theme: jekyll-theme-midnight 
+
+theme: jekyll-theme-minimal
+title: Documents
+description: This page hosts general documents. E.g. Push Mechanism API document.
